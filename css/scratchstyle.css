@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: rgb(218, 240, 218);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.viz1681994898394{
+    text-align: center;
+}
+
+.common{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header{
+    height: 50px;
+    background-color: black;
+    color: whitesmoke;
+    line-height: 50px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    right: 5px;
+    left: 5px;
+}
+
+.mainbody a:hover{
+    background-color: rgb(196, 196, 196)
+}
+
+.footer{
+    height: 25px;
+    font-size: 15px;
+    padding-top: 15px;
+    background-color: whitesmoke;
+    color: rgb(4, 67, 4);
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    position: fixed;
+    font-style: italic;
+    display: block;
+    z-index: 1000;
+}
